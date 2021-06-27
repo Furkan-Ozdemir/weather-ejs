@@ -1,0 +1,2 @@
+this is a basic weather app built with express.js and openWeather Api
+it gives you the weather for the city you searched for.
